@@ -3,7 +3,7 @@ title: 'Salesforce Adm-201 Questions'
 description: 'Get Most Reliable ADM-201 Questions to pass your exam in first attempt.'
 ---
 
-## Example coding exercise
+## ADM-201 Braindumps
 
 ```yaml
 type: NormalExercise
